@@ -1,0 +1,3 @@
+to run the application execute the below line:
+
+go run State.go Off.go Low.go Medium.go High.go Fan.go Program.go

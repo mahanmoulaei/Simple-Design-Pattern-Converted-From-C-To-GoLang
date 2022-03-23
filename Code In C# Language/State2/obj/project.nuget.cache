@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NM5L9XnVoY1vOmL39VymnVfj5C0KN9vXPcJVbG0bijDRwo2rXJsaOzdjIYyknIeI12XUDWfOFfr3McogwAjKRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mahan\\iCloudDrive\\LaSalle\\Trends In Technology\\GoLanguage\\Quiz\\State\\State2_behavioral\\State2\\State2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mahan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\mahan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mahan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mahan\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
